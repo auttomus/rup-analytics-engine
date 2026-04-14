@@ -84,7 +84,7 @@ Akses tab  **Data** , terapkan filter pada kluster spesifik yang menjadi fokus a
 
 ## Pelaporan Bug dan Permintaan Fitur
 
- Apabila Anda menemukan anomali pada sistem atau memiliki usulan peningkatan (seperti integrasi model NLP baru atau penyempurnaan dasbor metrik), silakan ajukan laporan melalui [Issues](https://www.google.com/search?q=https://github.com/auttomus/rup-analytics-engine/issues).
+ Apabila Anda menemukan anomali pada sistem atau memiliki usulan peningkatan (seperti integrasi model NLP baru atau penyempurnaan dasbor metrik), silakan ajukan laporan melalui [Issues](https://github.com/auttomus/rup-analytics-engine/issues).
 
  Untuk mempermudah proses investigasi terkait  *bug* , mohon sertakan informasi berikut:
 
