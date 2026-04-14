@@ -21,7 +21,7 @@ Pastikan sistem Anda telah terinstal **Python 3.10** atau versi yang lebih baru.
 1. **Kloning Repositori**
 
    ```bash
-   git clone [https://github.com/auttomus/rup-analytics-engine.git](https://github.com/auttomus/rup-analytics-engine.git)
+   git clone https://github.com/auttomus/rup-analytics-engine.git
    cd rup-analytics-engine
    ```
 2. **Pembuatan & Aktivasi Virtual Environment**
